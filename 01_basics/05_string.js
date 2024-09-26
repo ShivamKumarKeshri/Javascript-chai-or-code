@@ -33,4 +33,4 @@ console.log(url.replace('%20', '-'))
 
 console.log(url.includes('sundar'))
 
-console.log(gameName.split('-'));
+console.log(gameName.split('-'));      // split() splits a string into an array of substrings, and returns the array

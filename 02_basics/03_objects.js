@@ -10,7 +10,7 @@ const mySym = Symbol("key1")
 const JsUser = {
     name: "Hitesh",
     "full name": "Hitesh Choudhary",
-    [mySym]: "mykey1",
+    [mySym]: "mykey1",          // To represent the Symbol Datatype use []
     age: 18,
     location: "Jaipur",
     email: "hitesh@google.com",
